@@ -1,5 +1,5 @@
 {
-  "name": "@psteinroe/email-forward-parser",
+  "name": "@steinroe/email-forward-parser",
   "version": "1.2.0",
   "description": "Parses forwarded emails and extract content",
   "author": "Eliott Vincent <eliott@crisp.chat>",
